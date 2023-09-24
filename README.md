@@ -1,5 +1,7 @@
 #  NBA MVP Predictor ML Model <br>
 
+![mvp](https://github.com/rqcket/NBA_MVP_Predictor/assets/90141159/72940195-ef7d-45d8-811b-bf9df4d88e6e)
+
 ## Project Description:
 
 The NBA MVP Predictor ML Model is an exciting project that combines data scraping, data cleaning, and machine learning to predict the Most Valuable Player (MVP) award recipient in the National Basketball Association (NBA). This project leverages historical NBA statistics to create a predictive model using Ridge Regression, making it a valuable tool for basketball enthusiasts and analysts.
